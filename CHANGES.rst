@@ -72,6 +72,9 @@ Release History
   be applied to the targets before the solve function for compositional solvers
   and applied by the Transform builder for non-compositional solvers.
   (`#1507 <https://github.com/nengo/nengo/pull/1507>`__)
+- Switched documentation to new
+  `nengo-sphinx-theme <https://github.com/nengo/nengo-sphinx-theme>`_.
+  (`#1489 <https://github.com/nengo/nengo/pull/1489>`__)
 
 **Fixed**
 
